@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.librarymanage</groupId>
-	<artifactId>LibraryManagementApi</artifactId>
+	<artifactId>application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>LibraryManagementApi</name>
+	<name>application</name>
 	<description>Virtusa Spring Boot Practice Test on Library Management</description>
 	<properties>
 		<java.version>11</java.version>
